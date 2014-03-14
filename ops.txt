@@ -1,0 +1,33 @@
+ADDIU,      fib.sim
+ORI,        ori.sim
+SW,         fib.sim
+SB,         sb.sim
+LW,         fib.sim
+LBU,        lb.sim
+LB,         lb.sim
+SLTI,       fib.sim
+SLTIU,      sltiu.sim            
+BNE,        fib.sim
+BEQ,        beq.sim
+BLEZ,       blez.sim
+LUI,        lui.sim
+JAL,        jalr.sim
+J,          fib.sim
+ADDU,       fib.sim
+SLT,        slt.sim
+JR,         fib.sim
+SLL,        fib.sim
+SRL,        srl.sim
+SRA,        sra.sim
+ADD,        add.sim
+SUB,        sub.sim
+SUBU, 
+AND,        and.sim
+OR,         or.sim
+XOR,        xor.sim
+NOR,        nor.sim
+JALR,       jalr.sim
+
+
+BONUS
+ADDI,       addi.sim

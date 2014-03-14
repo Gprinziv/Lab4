@@ -1,0 +1,37 @@
+Starting at PC 4006a8
+Total number of dynamic instructions: 318956344
+Total number of cycles: 330527906
+  RType: 34836785
+  IType: 282617228
+  JType: 1502331
+Number of Memory Reads: 47237464
+Number of Memory Writes: 33201530
+Number of Register Reads: 435032452
+Number of Register Writes: 228032687
+Number of Forwards:
+  From Ex Stage: 23476216
+  From Mem Stage: 79650002
+Branches: 
+  Forward:
+    Taken: 3038351
+    Not taken: 11849752
+  Backward:
+    Taken: 39525222
+    Not taken: 1806470
+Branch delay slot: 
+  Useful instruction: 50146455
+  Not useful instruction: 6073340
+Jump delay slot: 
+  Useful instruction: 1503011
+  Not useful instruction: 0
+Load Use Hazard: 
+  Has load use stall: 5498222
+  Has load use hazard: 0
+  Has no load use hazard: 47237464
+256 byte cache (blocksize 4 bytes): 55338957 hits, 25100037 misses (hit rate: 68.7962%)
+256 byte cache (blocksize 8 bytes): 62995009 hits, 17443985 misses (hit rate: 78.314%)
+256 byte cache (blocksize 16 bytes): 65504280 hits, 14934714 misses (hit rate: 81.4335%)
+256 byte cache (blocksize 32 bytes): 67339089 hits, 13099905 misses (hit rate: 83.7145%)
+256 byte cache (blocksize 64 bytes): 67295406 hits, 13143588 misses (hit rate: 83.6602%)
+256 byte cache (blocksize 128 bytes): 47487079 hits, 32951915 misses (hit rate: 59.0349%)
+256 byte cache (blocksize 256 bytes): 5158262 hits, 75280732 misses (hit rate: 6.41264%)
